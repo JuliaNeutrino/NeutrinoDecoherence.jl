@@ -4,7 +4,7 @@ Environmental decoherence of neutrino oscillations for [GLoBES.jl](https://githu
 
 ```julia
 using Pkg
-Pkg.develop(path = "/path/to/NeutrinoDecoherence.jl")   # not registered yet
+Pkg.develop(path = "/path/to/NeutrinoDecoherence.jl")   # not registered yet; Julia 1.11 or later
 using GLoBES, NeutrinoDecoherence
 ```
 
